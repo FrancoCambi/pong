@@ -41,3 +41,4 @@ A simple implementation of the classic **PONG** game using **Python** and **Pyga
    ```bash
    python main.pyw
    ```
+3. **Press space!**
