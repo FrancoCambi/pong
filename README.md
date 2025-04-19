@@ -1,5 +1,7 @@
 # 🎮 PONG
 
+This readme is also available in [Spanish](README.es.md)
+
 A simple implementation of the classic **PONG** game using **Python** and **Pygame**. Two players can compete locally in this fast-paced arcade game, trying to score points by bouncing a ball past the opponent's paddle.
 
 ---
